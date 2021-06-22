@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\bin\Debug\LocalFunction csharp.exe.config
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\bin\Debug\LocalFunction csharp.exe
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\bin\Debug\LocalFunction csharp.pdb
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\obj\Debug\LocalFunction csharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\obj\Debug\LocalFunction csharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\obj\Debug\LocalFunction csharp.exe
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\obj\Debug\LocalFunction csharp.pdb
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\bin\Debug\ClassLibrary1.dll
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\bin\Debug\ClassLibrary1.pdb
+C:\Users\lenovo\source\repos\LocalFunction csharp\LocalFunction csharp\obj\Debug\LocalFunction csharp.csproj.CopyComplete
